@@ -10,8 +10,6 @@ This Lidar Visual SLAM data was collected on the second floor of the Atwater Ken
 - The camera-imu calibration Rosbag with undistored images for Intel Realsense T265 camera. [[Download: 443MB]](https://computing.wpi.edu/WPI_VSLAM_dataset/camera_imu_calibration_data.bag)
 - The 3-hours static IMU Rosbag for Intel Realsense T265 camera. [[Download: 811MB]](https://computing.wpi.edu/WPI_VSLAM_dataset/static_imu_data.bag)
 
-
-
 ### Rostopic:
 
 #### SLAM Rosbag:
@@ -43,7 +41,6 @@ This Lidar Visual SLAM data was collected on the second floor of the Atwater Ken
     /tf                             194952 msgs    : tf2_msgs/TFMessage         (4 connections)
 
     /tf_static                           1 msg     : tf2_msgs/TFMessage
-
 
 #### Camera_imu_calibration_data Rosbag:
 
