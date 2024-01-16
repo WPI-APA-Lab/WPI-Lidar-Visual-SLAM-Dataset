@@ -5,8 +5,8 @@
 This Lidar Visual SLAM data was collected on the second floor of the Atwater Kent Lab, WPI, Worcester, MA, USA.
 
 - The collected dataset in Rosbag format. [[Download: 49.7 GB\]](https://computing.wpi.edu/WPI_VSLAM_dataset/2023-05-18-15-40-14_0.bag)
-- The sensor extrinsic calibration file between OS1-64 Lidar and Intel Realsense T265 camera. [[Download: 67.7 MB\]](https://computing.wpi.edu/WPI_VSLAM_dataset/calibrated_data_example.zip)
-- The camera intrinsic calibration file for Intel Realsense T265 camera. [[Download: 26.5 MB\]](https://computing.wpi.edu/WPI_VSLAM_dataset/t265_stereo_calibration.zip)
+- The sensor extrinsic calibration file(images and Lidar scan) between OS1-64 Lidar and Intel Realsense T265 camera. [[Download: 67.7 MB\]](https://computing.wpi.edu/WPI_VSLAM_dataset/calibrated_data_example.zip)
+- The camera intrinsic calibration files (images) for Intel Realsense T265 camera. [[Download: 26.5 MB\]](https://computing.wpi.edu/WPI_VSLAM_dataset/t265_stereo_calibration.zip)
 - The camera-imu calibration Rosbag with undistored images for Intel Realsense T265 camera. [[Download: 443MB]](https://computing.wpi.edu/WPI_VSLAM_dataset/camera_imu_calibration_data.bag)
 - The 3-hours static IMU Rosbag for Intel Realsense T265 camera. [[Download: 811MB]](https://computing.wpi.edu/WPI_VSLAM_dataset/static_imu_data.bag)
 
