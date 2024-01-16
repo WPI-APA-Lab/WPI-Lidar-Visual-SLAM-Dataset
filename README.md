@@ -44,7 +44,9 @@ This Lidar Visual SLAM data was collected on the second floor of the Atwater Ken
 
 #### Camera_imu_calibration_data Rosbag:
 
-    /camera/fisheye2/image_raw     677 msgs    : sensor_msgs/Image (Please note that these images have been undistored and reordered into the rosbag. Resampled in 10Hz)
+    /camera/camera_info       1 msg     : sensor_msgs/CameraInfo
+
+    /camera/image_raw     677 msgs    : sensor_msgs/Image (Please note that these images have been undistored and reordered into the rosbag. Resampled in 10Hz)
 
     /camera/imu                  13936 msgs    : sensor_msgs/Imu (200Hz)
 
