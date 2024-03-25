@@ -16,7 +16,7 @@ The 3-hours static IMU Rosbag for Intel Realsense T265 camera. [[Download: 811MB
 
 ](https://computing.wpi.edu/WPI_VSLAM_dataset/static_imu_data.bag)
 
-### [E](https://computing.wpi.edu/WPI_VSLAM_dataset/static_imu_data.bag)xample on Matlab:
+### Example on Matlab:
 
 Please also check the detail implementations with this dataset on Matlab examples:
 
