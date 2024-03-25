@@ -13,7 +13,6 @@ The camera intrinsic calibration files (images) for Intel Realsense T265 camera.
 The camera-imu calibration Rosbag with undistored images for Intel Realsense T265 camera. [[Download: 443MB]](https://computing.wpi.edu/WPI_VSLAM_dataset/camera_imu_calibration_data.bag)
 
 The 3-hours static IMU Rosbag for Intel Realsense T265 camera. [[Download: 811MB]
-
 ](https://computing.wpi.edu/WPI_VSLAM_dataset/static_imu_data.bag)
 
 ### Example on Matlab:
