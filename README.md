@@ -10,7 +10,7 @@ The sensor extrinsic calibration files (images and Lidar scan) between OS1-64 Li
 
 The camera intrinsic calibration files (images) for Intel Realsense T265 camera. [[Download: 26.5 MB\]](https://computing.wpi.edu/WPI_VSLAM_dataset/t265_stereo_calibration.zip)
 
-The camera-imu calibration Rosbag with undistored images for Intel Realsense T265 camera. [[Download: 443MB]](https://computing.wpi.edu/WPI_VSLAM_dataset/camera_imu_calibration_data.bag)
+The camera-imu calibration Rosbag with undistorted images for Intel Realsense T265 camera. [[Download: 443MB]](https://computing.wpi.edu/WPI_VSLAM_dataset/camera_imu_calibration_data.bag)
 
 The 3-hours static IMU Rosbag for Intel Realsense T265 camera. [[Download: 811MB]
 ](https://computing.wpi.edu/WPI_VSLAM_dataset/static_imu_data.bag)
