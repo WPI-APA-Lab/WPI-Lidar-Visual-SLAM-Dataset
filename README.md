@@ -21,10 +21,10 @@ Please also check the detail implementations with this dataset on Matlab example
 * [Performant and Deployable Stereo Visual SLAM with Fisheye Images](https://www.mathworks.com/help/vision/ug/performant-and-deployable-stereo-visual-slam-with-fisheye-images.html)
 * [Estimate Camera-to-IMU Transformation Using Extrinsic Calibration](https://www.mathworks.com/help/nav/ug/estimate-camera-to-imu-transformation-using-extrinsic-calibration.html)
 
-We will apprecitate if you cite following paper while you are using our data in your academic research
+We will apprecitate if you cite following paper while you are using our data in your academic research:
 
 ```
-Z. Huang, X. Zhang, A. Garcia and X. Huang, "A Novel, Efficient and Accurate Method for Lidar Camera Calibration," 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024, pp. 14513-14519, doi: 10.1109/ICRA57147.2024.10611162. 
+[1] Z. Huang, X. Zhang, A. Garcia and X. Huang, "A Novel, Efficient and Accurate Method for Lidar Camera Calibration," 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024, pp. 14513-14519, doi: 10.1109/ICRA57147.2024.10611162. 
 
 
 ```
