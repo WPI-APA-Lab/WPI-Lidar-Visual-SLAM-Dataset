@@ -14,7 +14,7 @@ The camera-imu calibration Rosbag with undistorted images for Intel Realsense T2
 
 The 3-hours static IMU Rosbag for Intel Realsense T265 camera. [[Download: 811MB]](https://app.box.com/s/duwgn8ub7xuptx5q5ectjj1xbcs7im5y)
 
-### Example on Matlab:
+### Examples on MATLAB:
 
 Please also check the detail implementations with this dataset on Matlab examples:
 
